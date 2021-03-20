@@ -1,2 +1,0 @@
-# vhr
-vhr-frontend-backend
